@@ -1,0 +1,63 @@
+
+
+    
+
+
+.about_container{
+    padding: 4rem;
+    
+    
+    font-family: Montserrat,serif;
+    font-weight: bolder;
+    padding-bottom: 6rem;
+    
+    
+}
+.skills_container
+{
+  padding: 4rem;
+}
+.projects_container{
+    padding: 4rem;
+}
+.icon{
+    width: 4rem;
+}
+.skill-icon{
+    width: 4rem;
+}
+.icon-info{
+    font-size: medium;
+    font-weight: bolder;
+    margin-top: .5rem;
+    color: grey;
+}
+h1{
+    font-size: 3.5rem;
+    margin-top: 3rem;
+}
+.surname{
+    color: #fb3640
+}
+h2{
+    color: #fb3640;
+    font-size: 3rem;
+    
+}
+
+#About{
+    background-color: #206a5d;
+}
+
+.tech_icon{
+    width: 4rem;
+}
+#Skills{
+    background-color: #cdfffc;
+}
+#projects{
+    background-color: #faf2da;
+}
+h3{
+    color: #000;
+}
