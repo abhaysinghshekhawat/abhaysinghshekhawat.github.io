@@ -20,6 +20,12 @@
 .projects_container{
     padding: 4rem;
 }
+.experience_container{
+    padding: 4rem;
+}
+.contacts_container{
+    padding: 4rem;
+}
 .icon{
     width: 3rem;
 }
@@ -58,6 +64,12 @@ h2{
 }
 #projects{
     background-color: #faf2da;
+}
+#experience{
+    background-color: #bedbbb;
+}
+#contacts{
+    background-color: #424874;
 }
 h3{
     color: #000;
